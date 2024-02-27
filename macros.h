@@ -19,6 +19,6 @@
 #define BOARD_SEPARATOR '-'
 #define BOARD_SPLITTER '+'
 
-char numberToSymbol(int currentNumber);
+char numberToSymbol(int playerSymbol);
 
 #endif
