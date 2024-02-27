@@ -1,0 +1,1 @@
+gcc main.c game_logic.s io/game_board.c io/game_interface.c -std=c99 -Wall -Wextra -o tic-tac-toe
